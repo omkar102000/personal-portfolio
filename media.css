@@ -133,7 +133,7 @@
     }
 
     .project-name {
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 700;
     }
 
@@ -150,7 +150,7 @@
     }
 
     .project-desc {
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
 
     .project-card a {
@@ -159,7 +159,7 @@
 
     .project-card i {
         font-size: small;
-        padding: 0.2rem;
+        padding: 0.5rem;
     }
 
     .skills-head {
@@ -199,3 +199,4 @@
         width: 100%;
     }
 }
+
