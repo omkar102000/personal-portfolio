@@ -489,6 +489,7 @@ textarea {
 
 .form1 {
     justify-content: space-between;
+    flex-wrap; wrap;
 }
 
 .contact-btn {
@@ -522,4 +523,5 @@ textarea {
 
 .my-footer i:hover {
     outline-color: var(--bg-color);
+
 }
