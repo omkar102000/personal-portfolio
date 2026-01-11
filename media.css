@@ -133,7 +133,7 @@
     }
 
     .project-name {
-        font-size: 1rem;
+        font-size: 0.5rem;
         font-weight: 700;
     }
 
@@ -199,6 +199,7 @@
         width: 100%;
     }
 }
+
 
 
 
